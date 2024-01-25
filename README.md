@@ -12,7 +12,8 @@ An individual, that desires to do lots of things and delve into lots of interest
 
 📫 Mail me at  **janev.martin123@gmail.com**
 
-<p align="center">⚡ Fun fact: ** **</p>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
