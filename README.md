@@ -1,5 +1,5 @@
-<h1 align="center">Hello World, this is Martin`s GitHub page</h1> 
-<h3 align="center">I am a first-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
+<h2 align="left">Martin Janev</h1> 
+<h4 align="center">First-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
 
 <br>
   
