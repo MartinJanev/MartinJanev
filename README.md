@@ -1,21 +1,17 @@
-<h2 align="left">Martin Janev</h1> 
-<h4 align="center">First-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
+<h1 align="center">Martin Janev`s Github page</h1> 
+<h3 align="center">First-year student at the Faculty of Computer Science and Engineering in Skopje. 💻</h3>
+<h4 align = "center">An individual, that desires to do lots of things and delve into lots of interesting technologies. I am always curious to attain my highest potential while admiring the process of accomplishing anything beyond my comfort zone.</h3>
 
-<br>
-  
-An individual, that desires to do lots of things and delve into lots of interesting technologies. I am always curious to attain my highest potential while admiring the process of accomplishing anything beyond my comfort zone.
+<p>⚜️ Scout member at SU Equinox - Shtip https://www.ekvinoks.mk/ 👨🏼 Volunteer at Scout Assosiation of Macedonia https://scout.org.mk/ </p>
+<p>🟥 Member at EESTEC LC Skopje https://eestec.mk/  🔭 Currently working on EESTEC Academy 1 on Robotics as Head of Logistics </p>
 
+---
 
 🌱 I’m currently learning - **C++, HTML, CSS**
 
 🪣 Languages to Learn - **Java, Phyton, JavaScript, Flutter, Kotlin, C#**
 
 📫 Mail me at  **janev.martin123@gmail.com**
-
-<a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
