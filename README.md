@@ -1,5 +1,3 @@
-<h1 align="center">Martin Janev`s Github page</h1> 
-
 ![Student, Scout and Volunteer](https://github.com/MartinJ1st/MartinJ1st/blob/main/banner.png)
 
 <h3 align="center">💻 First-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
