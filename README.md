@@ -13,7 +13,7 @@
 
 👷‍♂️ Currently working on **EESTEC Academy 1 on Robotics** 🤖 - as Head of Logistics 🏗️
 
-🪣 Languages to Learn - **Java, Phyton, JavaScript, Flutter, Kotlin, C#**
+🪣 Languages to Learn - **Java, Phyton, JavaScript, R, Flutter, Kotlin, C#**
 
 📫 Mail me at  **janev.martin123@gmail.com**
 
