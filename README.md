@@ -22,5 +22,5 @@
 
 <p><img height = 200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinJ1st&show_icons=true&locale=en&include_all_commits=true&theme=merko&layout=compact" alt="martinStats" /></p>
 
-<p><img height = 200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinj1st&show_icons=true&locale=en&include_all_commits=true&theme=merko" alt="martin" /></p>
+<p><img height = 200 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=martinj1st&show_icons=true&locale=en&include_all_commits=true&theme=merko" alt="martin" /></p>
 
