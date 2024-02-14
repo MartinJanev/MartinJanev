@@ -1,4 +1,4 @@
-![Student, Scout and Volunteer](https://github.com/MartinJ1st/MartinJ1st/blob/main/banner.png)
+![Student, Scout and Volunteer](https://github.com/MartinJ1st/MartinJ1st/blob/main/profile-banner.png)
 
 <h3 align="center">💻 First-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
 <h4 align = "center">An individual, that desires to do lots of things and delve into lots of interesting technologies. I am always curious to attain my highest potential while admiring the process of accomplishing anything beyond my comfort zone.</h3>
