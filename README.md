@@ -13,7 +13,7 @@
 
 👷‍♂️ Currently working on <a href="https://eestec.mk/">**EESTEC LC Skopje** Web Page</a> 🟥
 
-🪣 Languages to Learn - **Java, Phyton, JavaScript, Flutter, Kotlin, **
+🪣 Languages to Learn - **Java, Phyton, JavaScript, Flutter, Kotlin**
 
 📫 If you have anything to ask me, you can reach me at **janev.martin123@gmail.com**
 
