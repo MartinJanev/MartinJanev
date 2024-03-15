@@ -9,7 +9,7 @@
 
 ---
 
-🌱 I’m currently learning - **C++, HTML, CSS**
+🌱 I’m currently learning - **C++, HTML, CSS, MIPS**
 
 👷‍♂️ Currently working on <a href="https://eestec.mk/">**EESTEC LC Skopje** Web Page</a> 🟥
 
