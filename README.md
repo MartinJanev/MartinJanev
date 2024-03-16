@@ -27,4 +27,12 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=martinjanev&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
+
+---
+<!--### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="width: 350px;"/>
+
 </div>
