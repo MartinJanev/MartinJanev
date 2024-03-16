@@ -1,4 +1,4 @@
-![Student, Scout and Volunteer](https://github.com/MartinJ1st/MartinJ1st/blob/main/banner.png)
+![Student, Scout and Volunteer](https://github.com/MartinJanev/MartinJanev/blob/main/banner.png)
 
 <h3 align="center">💻 First-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
 <h4 align = "center">An individual, that desires to do lots of things and delve into lots of interesting technologies. I am always curious to attain my highest potential while admiring the process of accomplishing anything beyond my comfort zone.</h3>
@@ -23,8 +23,8 @@
 <br>
 
 <div class='container'>
-<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinJ1st&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
+<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=martinj1st&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=martinjanevt&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
 </div>
