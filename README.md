@@ -41,7 +41,7 @@
 <br>
 
 <div class='container'>
-<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=9&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
+<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.2&count_weight=0.30&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=martinjanev&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
