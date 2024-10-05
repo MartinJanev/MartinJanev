@@ -40,6 +40,6 @@
 </p>
 <br>
 
-<div style="display:flex; justify-content: center;" class='container'>
-<img style="height: auto; width: 35%; " class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.21&count_weight=0.30&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c"  alt="Most Used Langs"/>
+<div class='container'>
+<img style="height: auto; width: 40%; margin-left: 50%" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.21&count_weight=0.30&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c"  alt="Most Used Langs"/>
 </div>
