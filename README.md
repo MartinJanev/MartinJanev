@@ -1,7 +1,7 @@
 ![Student, Scout and Volunteer](https://github.com/MartinJanev/MartinJanev/blob/main/banner.png)
 
 <h3 align="center">💻 Second-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
-<h4>A human aspiring to create a better world through community work and scouting. I am a problem solver eager to step outside my comfort zone. As a curious programmer, I’m passionate about tackling complex challenges in AI and data science, ensuring everything I do is well-planned and executed precisely.
+<h4>A+spiring to create a better world through community work and scouting. I am a problem solver eager to step outside my comfort zone. As a curious programmer, I’m passionate about tackling complex challenges in AI and data science, ensuring everything I do is well-planned and executed precisely.
 </h4>
 
   <p>⚜️ Scout member at <a href="https://www.ekvinoks.mk"> SU Equinox - Shtip</a></p>
@@ -14,12 +14,12 @@
 
 👷‍♂️ Currently working on the project **EventifyNow - Event Management System**
 
-🪣 Languages to Learn - **Phyton**
+🪣 Languages to Learn - **Phyton, R**
 
 📫 If you have anything to ask me, you can reach me at **janev.martin123@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="center">Languages and Tools:</h2>
+<p style="display: flex;justify-content: space-evenly; row-gap: 12px"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -40,9 +40,6 @@
 </p>
 <br>
 
-<div class='container'>
-<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.21&count_weight=0.30&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=martinjanev&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
+<div style="display:flex; justify-content: center;" class='container'>
+<img style="height: auto; width: 35%; " class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.21&count_weight=0.30&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c"  alt="Most Used Langs"/>
 </div>
