@@ -10,9 +10,9 @@
 
 ---
 
-🌱 I’m currently learning - **Angular, Firebase, Java**
+🌱 I’m currently learning - **Java**
 
-👷‍♂️ Currently working on the project **EventifyNow - Event Management System**
+👷‍♂️ Currently working on the project **TBD**
 
 🪣 Languages to Learn - **Phyton, R**
 
