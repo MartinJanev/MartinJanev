@@ -6,7 +6,7 @@
 
   <p>⚜️ Scout member at <a href="https://www.ekvinoks.mk"> SU Equinox - Shtip</a></p>
   <p>👨🏼 Volunteer at  <a href="https://scout.org.mk/">Scout Assosiation of Macedonia</a></p>
-  <p>🟥 Member at  <a href="https://eestec.mk/">EESTEC LC Skopje</a></p>
+  <p>🟥 Member at  <a href="https://eestec.mk/">EESTEC LC Skopje</a> and International IT Projects Team member at <a href="https://eestec.net/">EESTEC</a></p>
 
 ---
 
