@@ -1,7 +1,7 @@
 ![Student, Scout and Volunteer](https://github.com/MartinJanev/MartinJanev/blob/main/banner.png)
 
 <h3 align="center">💻 Second-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
-<h4>A+spiring to create a better world through community work and scouting. I am a problem solver eager to step outside my comfort zone. As a curious programmer, I’m passionate about tackling complex challenges in AI and data science, ensuring everything I do is well-planned and executed precisely.
+<h4>Aspiring to create a better world through community work and scouting. I am a problem solver eager to step outside my comfort zone. As a curious programmer, I’m passionate about tackling complex challenges in AI and data science, ensuring everything I do is well-planned and executed precisely.
 </h4>
 
   <p>⚜️ Scout member at <a href="https://www.ekvinoks.mk"> SU Equinox - Shtip</a></p>
