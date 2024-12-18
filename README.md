@@ -19,7 +19,7 @@
 📫 If you have anything to ask me, you can reach me at **janev.martin123@gmail.com**
 
 <h2 align="center">Languages and Tools:</h2>
-<p style="display: flex;justify-content: space-evenly; row-gap: 12px"> 
+<p style="display: flex;justify-content: space-evenly; row-gap: 18px"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
