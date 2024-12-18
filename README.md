@@ -36,5 +36,5 @@
 <br>
 
 <div align="center" class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.25&count_weight=0.20&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c,css"  alt="Most Used Langs"/>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.15&count_weight=0.20&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile,c,css"  alt="Most Used Langs"/>
 </div>
