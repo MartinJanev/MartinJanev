@@ -10,11 +10,11 @@
 
 ---
 
-🌱 I’m currently learning - **Java**
+🌱 I’m currently learning - **Java, Phyton, R**
 
 👷‍♂️ Currently working on the project **TBD**
 
-🪣 Languages to Learn - **Phyton, R**
+🪣 Languages to Learn - **TBD**
 
 📫 If you have anything to ask me, you can reach me at **janev.martin123@gmail.com**
 
