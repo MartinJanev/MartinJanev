@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning - **Phyton, Shell, React**
 
-👷‍♂️ Currently working on the project **TBD**
+👷‍♂️ Currently working on the project **Making the Portfolio Website Modern**
 
 🪣 Languages to Learn - **TBD**
 
