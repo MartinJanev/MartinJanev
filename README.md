@@ -1,20 +1,20 @@
 ![Student, Scout and Volunteer](https://github.com/MartinJanev/MartinJanev/blob/main/banner.png)
 
-<h3 align="center">💻 Second-year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
+<h3 align="center">💻 Third year student at the Faculty of Computer Science and Engineering in Skopje.</h3>
 <h4>Aspiring to create a better world through community work and scouting. I am a problem solver, who is eager to step outside my comfort zone. As a curious programmer, I’m passionate about tackling complex challenges in AI and data science, ensuring everything I do is well-planned and executed precisely.
 </h4>
 
-  <p>⚜️ Scout member at <a href="https://www.ekvinoks.mk"> SU Equinox - Shtip</a></p>
+  <p>⚜️ Scout member at <a href="https://www.ekvinoks.mk"> Scout Unit Equinox - Shtip</a></p>
   <p>👨🏼 Volunteer at  <a href="https://scout.org.mk/">Scout Assosiation of Macedonia</a></p>
   <p>🟥 Member at  <a href="https://eestec.mk/">EESTEC LC Skopje</p>
 
 ---
 
-🌱 I’m currently learning - **Phyton, Shell, React**
+🌱 I’m currently learning - ****
 
-👷‍♂️ Currently working on the project **Making the Portfolio Website Modern**
+👷‍♂️ Currently working on **making projects for various subjects**
 
-🪣 Languages to Learn - **TBD**
+🪣 Languages to Learn - **Hadoop, SQL**
 
 📫 If you have anything to ask me, you can reach me at **janev.martin123@gmail.com**
 
@@ -38,5 +38,5 @@
 <br>
 
 <div align="center" class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.089&count_weight=0.1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile&exclude_repo=tetris-project"  alt="Most Used Langs"/>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.3&count_weight=0.05&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile&exclude_repo=tetris-project"  alt="Most Used Langs"/>
 </div>
