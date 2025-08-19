@@ -93,12 +93,12 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&size_weight=0.3&count_weight=0.05&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=8&layout=compact&hide=cmake,shaderlab,hlsl,makefile&exclude_repo=tetris-project"
       alt="Most Used Langs"
-      height="160"
+      height="350"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=martinjanev&theme=merko&show_icons=true&locale=en"
       alt="martinjanev's GitHub stats"
-      height="160"
+      height="350"
     />
   </div>
 </div>
