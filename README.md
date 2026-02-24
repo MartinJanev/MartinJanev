@@ -42,15 +42,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinjanev&theme=merko&show_icons=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinjanev&theme=merko&layout=compact&langs_count=8&hide=cmake,makefile,hlsl,shaderlab" height="150" alt="Top Languages"/>
-</div>
-
----
-
 <h2 align="center">🧠 Current Focus</h2>
 
 <div align="center">
