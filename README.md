@@ -1,69 +1,59 @@
-<h1 align="center">💻 Third Year Computer Science & Engineering Student</h1>
-<h3 align="center">Faculty of Computer Science and Engineering, Skopje</h3>
+# Hi there, I'm Martin Janev 👋
 
-<p align="center">
-  <em>Passionate about solving complex challenges in AI and Machine Learning. Dedicated to community work and scouting, always eager to step outside my comfort zone.</em>
-</p>
+**💻 Third Year Computer Science & Engineering Student at FCSE/FINKI, Skopje**
 
----
-
-<h2 align="center">🚀 Tech Stack</h2>
-
-### 🧑‍💻 Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### 🧩 AI & Data Science
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+I'm passionate about solving complex challenges at the intersection of Artificial Intelligence, Machine Learning, and Software Engineering. Whether I'm building highly concurrent systems, designing robust databases, or digging into the math behind information-theoretic feature selection, I love stepping outside my comfort zone to build efficient, data-driven solutions. 
 
 ---
 
-<h2 align="center">🧠 Current Focus</h2>
+### 🚀 What I'm Up To
 
-<div align="center">
-  <p><strong>📚 Learning:</strong> Parallelization, Backend, Databases</p>
-  <p><strong>👷‍♂️ Researching:</strong> Information Theory, AI</p>
-</div>
-
----
-
-<h2 align="center">🤝 Community</h2>
-
-<p align="center">
-  ⚜️ <a href="https://www.ekvinoks.mk">Scout Unit Equinox</a> & <a href="https://scout.org.mk/">Scout Association of Macedonia</a><br>
-  🟥 <a href="https://eestec.mk/">EESTEC LC Skopje</a>
-</p>
+* 🔭 **Currently working on:** Vezilka team for model translation, building the web platform and exploring the data relevant to the scope of the project, Numba-accelerated fraud detection in healthcare transactions
+* 🧠 **Researching & Learning:** Еxploring Spiking Neural Networks in terms of how it recognizes formal languages, LLM based Agentic systems
+* 🤝 **Community:** I go to a lot of IT events and meetups. I am also a dedicated volunteer at [Scout Unit Equinox](https://www.ekvinoks.mk) & the [Scout Association of Macedonia](https://scout.org.mk/), and active in [EESTEC LC Skopje](https://eestec.mk/).
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="mailto:janev.martin123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-janev.martin123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+**Languages & Core Tools** 
+
+<a href="https://docs.python.org/3/"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" /></a> &nbsp;
+<a href="https://docs.oracle.com/en/java/"><img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/150/small/java-programming-language-java-logo-free-png.png" height="40" alt="Java" /></a> &nbsp;
+<a href="https://en.cppreference.com/w/"><img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" /></a> &nbsp;
+<a href="https://dev.mysql.com/doc/"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL" /></a> &nbsp;
+<a href="https://docs.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" /></a> &nbsp;
+<a href="https://git-scm.com/doc"><img src="https://cdn.simpleicons.org/git/F05033" height="40" alt="Git" /></a> &nbsp;
+<a href="https://www.gnu.org/software/bash/manual/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" /></a> &nbsp;
+<br>
+
+**AI, Data Science & Analytics**
+
+
+<a href="https://jupyter.org/documentation"><img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" /></a>
+<a href="https://pytorch.org/docs/stable/index.html"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" /></a> &nbsp;
+<a href="https://www.tensorflow.org/api_docs"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" /></a> &nbsp;
+<a href="https://scikit-learn.org/stable/user_guide.html"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn" /></a> &nbsp;
+<a href="https://pandas.pydata.org/docs/"><img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" /></a> &nbsp;
+<a href="https://numpy.org/doc/stable/"><img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" /></a> &nbsp;
+<a href="https://docs.opencv.org/"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="OpenCV" /></a> &nbsp;
+<a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" /></a> &nbsp;
+<a href="https://docs.scipy.org/doc/scipy/"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="40" alt="SciPy" /></a> &nbsp;
+<a href="https://matplotlib.org/stable/contents.html"><img src="https://matplotlib.org/stable/_static/logo_dark.svg" height="40" alt="Matplotlib" /></a> &nbsp;
+<a href="https://cran.r-project.org/manuals.html"><img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="R" /></a>
+
+<br>
+
+**Backend & Web Development** 
+
+<a href="https://docs.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="Django" /></a> &nbsp;
+<a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="Spring Boot" /></a> &nbsp;
+<a href="https://getbootstrap.com/docs/"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" /></a>
+
+---
+
+### 🌐 Let's Connect
+
+<a href="mailto:janev.martin123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-janev.martin123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
